@@ -1,0 +1,22 @@
+
+@author:Tapas Tripathi
+
+
+
+	Apache Cordova (formerly PhoneGap) is a popular mobile application development framework originally created by Nitobi. Adobe Systems purchased Nitobi in 2011, rebranded it as PhoneGap, and later released an open source version of the software called Apache Cordova.
+ 
+	Using Apache cordova you can build apps for multiple platform like Android, BlackBerry, Firefox OS, iOS, webOS, Windows Phone and many more.
+
+	Here you have create a webapp using HTML,CSS and Javscript and Cordova will make the native app for you for the desired operating system.
+
+	Apache Cordova can be extended with native plug-ins, allowing developers to add more functionalities that can be called from JavaScript, making it communicate directly between the native layer and the HTML5 page. These plugins allow access to the device's accelerometer, camera, compass, file system, microphone, and more.
+
+	However, the use of Web-based technologies leads some Apache Cordova applications to run slower than native applications with similar functionality. There are sme similiar technologies like React-Native where the build apps will be more faster than the apps build in Cordova.
+
+	I have created this basic Stopwatch app with Cordova which will be very basic app with basic stopwatch functionality. I have used Jquery and Bootstrap also in this app.
+
+
+
+
+@author: Tapas Tripathi
+@mailto: tapas.nilanjit@gmail.com
